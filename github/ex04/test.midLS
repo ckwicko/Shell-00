@@ -1,2 +1,0 @@
-ls -p --ignore='.*' -1t | paste -sd ', '
-
